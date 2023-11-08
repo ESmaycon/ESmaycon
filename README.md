@@ -12,4 +12,12 @@
       <img aling="center" alt="nodejs" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
       <img aling="center" alt="mysql" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
        <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</div><br/>
+
+💡 Sou um entusiasta da programação e apaixonado por tecnologia, buscando constantemente expandir meu conhecimento e habilidades no mundo do desenvolvimento de software.
+
+💻 Minhas principais áreas de interesse incluem desenvolvimento voltado para o backend, com mais atenção ao java. Tenho experiência em linguagens como JavaScript, Python, Java, e estou sempre em busca de desafios estimulantes que me permitam crescer e aprimorar minhas habilidades.
+
+### Projetos
+
+Em breve...
